@@ -9,7 +9,7 @@ You will need a micro-USB to connect the NodeMCU to computer as well as an insta
 https://www.arduino.cc/en/main/software
 
 You will have to add the NodeMCU board to the basic Arduino install.
-1. Open you IDE and click on "File -> Preferences".
+1. Open the IDE and click on "File -> Preferences".
 
 2. In  "Aditional Boards Manager URLs" add this line and click on "OK":
 "http://arduino.esp8266.com/stable/package_esp8266com_index.json"
