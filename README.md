@@ -21,11 +21,9 @@ You also need some libraries for the code as is now. Libraries can be added in d
 1. either directly through the Arduino IDE interface: Sketch -> Include Library -> Manage Libraries
 2. find the library in zip on githug or other, and install it with the Sketch -> Include Library -> Add .ZIP library
 
-At the moment, I think you need the NTPclient library and the SimpleTimer library
+At the moment, I think you only need the NTPclient library
 The NTPclient can be found in the Manage Libraries directly in Arduino
-The simple timer is not there for some reason. Here is the repo:
-https://github.com/schinken/SimpleTimer
-Get the zip and install it from Arduino IDE
+
 
 Finally, the only change to make to the current script is for wifi credentials on lines 10 and 11.
 
