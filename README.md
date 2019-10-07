@@ -14,7 +14,7 @@ You will have to add the NodeMCU board to the basic Arduino install.
 2. In  "Aditional Boards Manager URLs" add this line and click on "OK":
 "http://arduino.esp8266.com/stable/package_esp8266com_index.json"
 
-3.Go to "Tools -> Board -> Boards Manager", type "ESP8266" and install it. 
+3. Go to "Tools -> Board -> Boards Manager", type "ESP8266" and install it. 
 This will take a little time as it needs to get a bunch of tools to support the ESP8266 chip.
 
 When flashing a board, it is a good idea to check the port and the board choice in "Tools -> Board" 
