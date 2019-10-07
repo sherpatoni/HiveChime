@@ -21,7 +21,7 @@ When just about to flash a board, it is a good idea to check the port and the bo
 For NodeMCU select "Generic ESP8266 Module".
 
 You also need to install libraries which can be done in different ways:
-1. Either directly through the Arduino IDE interface: Sketch -> Include Library -> Manage Libraries. You can search the list of libraries and install what is needed.
+1. Either directly through the Arduino IDE interface: "Sketch -> Include Library -> Manage Libraries". You can search the list of libraries and install what is needed.
 2. Or find the library in .zip on githug or other, and install it with the Sketch -> Include Library -> Add .ZIP library
 
 At the moment, you only need the NTPclient library. (But that changes often...I will try to keep this up to date)
